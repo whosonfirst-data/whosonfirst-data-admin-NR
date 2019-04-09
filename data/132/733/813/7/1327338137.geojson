@@ -1,0 +1,102 @@
+{
+  "id": 1327338137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.92945,-0.50803,166.92945,-0.50803",
+    "geom:latitude":-0.50803,
+    "geom:longitude":166.92945,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Baiti",
+    "gn:country_code":"NR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2110427,
+    "gn:latitude":-0.50803,
+    "gn:longitude":166.92945,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Baiti",
+    "gn:population":810,
+    "gn:timezone":"Pacific/Nauru",
+    "iso:country":"NR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baitsi District"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056b\u057f\u056b"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30c1\u5730\u533a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10e2\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uc774\ud2f0 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Baitis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0438\u0442\u0438"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0411\u0430\u0438\u0442\u0438"
+    ],
+    "name:por_x_preferred":[
+        "Baitsi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0438\u0442\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u5e1d\u5340"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632747,
+        85675645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110427,
+        "wk:page":"Baitsi_District"
+    },
+    "wof:country":"NR",
+    "wof:geomhash":"b41113bbce54304292b9ef40e60dc87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632747,
+            "locality_id":1327338137,
+            "region_id":85675645
+        }
+    ],
+    "wof:id":1327338137,
+    "wof:lastmodified":1537676138,
+    "wof:name":"Baiti",
+    "wof:parent_id":85675645,
+    "wof:placetype":"locality",
+    "wof:population":810,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-nr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.92945,
+    -0.50803,
+    166.92945,
+    -0.50803
+],
+  "geometry": {"coordinates":[166.92945,-0.50803],"type":"Point"}
+}

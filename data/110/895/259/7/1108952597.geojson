@@ -1,0 +1,68 @@
+{
+  "id": 1108952597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000141,
+    "geom:area_square_m":1739415.404329,
+    "geom:bbox":"166.916351759,-0.550667846144,166.932640312,-0.534380806429",
+    "geom:latitude":-0.543719,
+    "geom:longitude":166.924097,
+    "gn:id":"",
+    "gn:population":1100,
+    "iso:country":"NR",
+    "lbl:latitude":-0.543505,
+    "lbl:longitude":166.923541,
+    "mps:latitude":-0.543505,
+    "mps:longitude":166.923541,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yaren"
+    ],
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85632747,
+        85675677
+    ],
+    "wof:breaches":[],
+    "wof:capital_of":85632747,
+    "wof:concordances":{},
+    "wof:coterminous":[
+        85675677
+    ],
+    "wof:country":"NR",
+    "wof:geomhash":"de8fdf1aa2648ecea1a3772ca72e5a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632747,
+            "locality_id":1108952597,
+            "region_id":85675677
+        }
+    ],
+    "wof:id":1108952597,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1536953834,
+    "wof:name":"Yaren",
+    "wof:parent_id":85675677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.9163517587267,
+    -0.55066784614411,
+    166.9326403120009,
+    -0.534380806429
+],
+  "geometry": {"coordinates":[[[166.9326403120009,-0.55066784614411],[166.91635175872671,-0.54753997169229],[166.91826953601037,-0.54035014644205],[166.92009402481949,-0.53879933122408],[166.9252922897075,-0.534380806429],[166.9326403120009,-0.55066784614411]]],"type":"Polygon"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343251103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.95813,-0.521,166.95813,-0.521",
+    "geom:latitude":-0.521,
+    "geom:longitude":166.95813,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ijuw",
+    "gn:country_code":"NR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2110433,
+    "gn:latitude":-0.521,
+    "gn:longitude":166.95813,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ijuw",
+    "gn:population":180,
+    "gn:timezone":"Pacific/Nauru",
+    "iso:country":"NR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ijuh",
+        "Ijub",
+        "Ijuw"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2110433,
+        "wk:page":"Ijuw_District"
+    },
+    "wof:country":"NR",
+    "wof:geomhash":"f768031e40a3e7785af9fb394de8bc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343251103,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343251103,
+    "wof:lastmodified":1537676138,
+    "wof:name":"Ijuw",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":180,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-nr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.95813,
+    -0.521,
+    166.95813,
+    -0.521
+],
+  "geometry": {"coordinates":[166.95813000000001,-0.521],"type":"Point"}
+}

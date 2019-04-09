@@ -1,0 +1,74 @@
+{
+  "id": 890436403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.91247,-0.52545,166.91247,-0.52545",
+    "geom:latitude":-0.52545,
+    "geom:longitude":166.91247,
+    "gn:country":"NR",
+    "gn:fcode":"PPL",
+    "gn:pop":2381,
+    "iso:country":"NR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Arijejen"
+    ],
+    "name:eng_x_preferred":[
+        "Arijejen"
+    ],
+    "name:pol_x_preferred":[
+        "Arijejen"
+    ],
+    "qs:name":"Arijejen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632747,
+        85675629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7626485,
+        "gp:id":1064281,
+        "qs:id":694118,
+        "wd:id":"Q16530036"
+    },
+    "wof:country":"NR",
+    "wof:created":1469052110,
+    "wof:geomhash":"ff14733cced13ead6f5a6ce194475830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632747,
+            "locality_id":890436403,
+            "region_id":85675629
+        }
+    ],
+    "wof:id":890436403,
+    "wof:lastmodified":1514493721,
+    "wof:name":"Arijejen",
+    "wof:parent_id":85675629,
+    "wof:placetype":"locality",
+    "wof:population":2381,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-nr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.91247,
+    -0.52545,
+    166.91247,
+    -0.52545
+],
+  "geometry": {"coordinates":[166.91247000000001,-0.52545],"type":"Point"}
+}
