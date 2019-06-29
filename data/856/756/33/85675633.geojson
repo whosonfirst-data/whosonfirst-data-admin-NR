@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":1168487.31147,
+    "geom:area_square_m":1168487.311472,
     "geom:bbox":"166.906993035,-0.524834894115,166.920376362,-0.512106850351",
     "geom:latitude":-0.519901,
     "geom:longitude":166.912935,
@@ -29,17 +29,11 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u062f\u064a\u0646\u064a\u063a\u0648\u0645\u0648\u062f\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0565\u0576\u056b\u0563\u0578\u0574\u0578\u0564\u0578\u0582"
-    ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09a8\u09bf\u0997\u09cb\u09ae\u09c1\u09a6\u09cb \u099c\u09c7\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Denigomodu"
-    ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u5c3c\u9ad8\u83ab\u90fd\u5340"
     ],
     "name:dan_x_preferred":[
         "Denigomodu"
@@ -47,8 +41,8 @@
     "name:deu_x_preferred":[
         "Denigomodu"
     ],
-    "name:dut_x_preferred":[
-        "Denigomodu"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03bd\u03b9\u03b3\u03ba\u03bf\u03bc\u03cc\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Denigomodu"
@@ -62,20 +56,8 @@
     "name:fra_x_preferred":[
         "Denigomodu"
     ],
-    "name:fre_x_preferred":[
-        "Denigomodu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d4\u10dc\u10d8\u10d2\u10dd\u10db\u10dd\u10d3\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Denigomodu"
-    ],
     "name:glv_x_preferred":[
         "Denigomodu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b5\u03bd\u03b9\u03b3\u03ba\u03bf\u03bc\u03cc\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0abf\u0a97\u0acb\u0aae\u0acb\u0aa1\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Denigomodu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0576\u056b\u0563\u0578\u0574\u0578\u0564\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Daftar distrik di Nauru"
@@ -104,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cc6\u0ca8\u0cbf\u0c97\u0cca\u0cae\u0cca\u0ca1\u0cc1 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d4\u10dc\u10d8\u10d2\u10dd\u10db\u10dd\u10d3\u10e3"
+    ],
     "name:kor_x_preferred":[
         "\ub370\ub2c8\uace0\ubaa8\ub450 \uad6c"
     ],
@@ -113,17 +101,17 @@
     "name:lit_x_preferred":[
         "Denigomodu"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0435\u043d\u0438\u0433\u043e\u043c\u043e\u0434\u0443"
-    ],
     "name:mar_x_preferred":[
         "\u0921\u0947\u0928\u093f\u0917\u094b\u092e\u0941\u0928\u094b\u0921 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
-        "Denigomodu"
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u043d\u0438\u0433\u043e\u043c\u043e\u0434\u0443"
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0435\u043d\u0438\u0433\u043e\u043c\u043e\u0434\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Denigomodu"
     ],
     "name:nau_x_preferred":[
         "Denigomodu"
@@ -143,7 +131,7 @@
     "name:por_x_preferred":[
         "Denigomodu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Denigomodu"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "Denigomodu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5c3c\u9ad8\u83ab\u90fd\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -310,7 +301,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561772677,
     "wof:name":"Denigomodu",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
