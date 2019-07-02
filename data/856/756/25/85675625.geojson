@@ -29,17 +29,11 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0628\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0565"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09af\u09bc\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
     "name:cat_x_preferred":[
         "Boe"
-    ],
-    "name:chi_x_preferred":[
-        "\u6cca\u5340"
     ],
     "name:dan_x_preferred":[
         "Boe"
@@ -47,8 +41,8 @@
     "name:deu_x_preferred":[
         "Boe"
     ],
-    "name:dut_x_preferred":[
-        "Boe"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03cc\u03b5"
     ],
     "name:eng_x_preferred":[
         "Boe"
@@ -62,20 +56,8 @@
     "name:fra_x_preferred":[
         "Boe"
     ],
-    "name:fre_x_preferred":[
-        "Boe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Boe"
-    ],
     "name:glv_x_preferred":[
         "Boe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03cc\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a87 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,6 +70,9 @@
     ],
     "name:hrv_x_preferred":[
         "Boe"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0565"
     ],
     "name:ind_x_preferred":[
         "Boe"
@@ -104,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccb \u0ca1\u0cbf\u0cb8\u0ccd\u0c9f\u0ccd\u0cb0\u0cbf\u0c95\u0ccd\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\uc5d0 \uad6c"
     ],
@@ -113,17 +101,17 @@
     "name:lit_x_preferred":[
         "Bo\u0117"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u043e\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u094b\u0908 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
-        "Boe"
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0435"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u043e\u044d"
+    ],
+    "name:msa_x_preferred":[
+        "Boe"
     ],
     "name:nau_x_preferred":[
         "Boe"
@@ -143,7 +131,7 @@
     "name:por_x_preferred":[
         "Boe"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Boe"
     ],
     "name:rus_x_preferred":[
@@ -187,6 +175,9 @@
     ],
     "name:vie_x_preferred":[
         "Boe"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cca\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -310,7 +301,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1553550475,
+    "wof:lastmodified":1561772677,
     "wof:name":"Boe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
