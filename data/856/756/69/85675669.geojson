@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Meneng"
     ],
+    "name:ceb_x_preferred":[
+        "Meneng District"
+    ],
     "name:dan_x_preferred":[
         "Meneng"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Meneng"
+    ],
+    "name:eng_x_variant":[
+        "Meneng District"
     ],
     "name:epo_x_preferred":[
         "Meneng"
@@ -90,6 +96,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d4\u10dc\u10d4\u10dc\u10d2\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u0435\u043d\u0435\u043d\u0433"
     ],
     "name:kor_x_preferred":[
         "\uba54\ub139 \uad6c"
@@ -297,7 +306,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251334,
     "wof:name":"Meneng",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

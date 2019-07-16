@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Aiwo"
     ],
+    "name:ceb_x_preferred":[
+        "Aiwo District"
+    ],
     "name:dan_x_preferred":[
         "Aiwo"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Aiwo"
+    ],
+    "name:eng_x_variant":[
+        "Aiwo District"
     ],
     "name:epo_x_preferred":[
         "Aiwo"
@@ -95,11 +101,17 @@
     "name:kat_x_preferred":[
         "\u10d0\u10d8\u10d5\u10dd"
     ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0439\u0432\u043e"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc774\uc6cc \uad6c"
     ],
     "name:lat_x_preferred":[
         "Aivum"
+    ],
+    "name:lat_x_variant":[
+        "Aivo"
     ],
     "name:lav_x_preferred":[
         "Aivo distrikts"
@@ -304,7 +316,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251337,
     "wof:name":"Aiwo",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
