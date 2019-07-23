@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Uaboe"
     ],
+    "name:ceb_x_preferred":[
+        "Uaboe District"
+    ],
     "name:dan_x_preferred":[
         "Uaboe"
     ],
@@ -47,6 +50,9 @@
     "name:eng_x_preferred":[
         "Uaboe"
     ],
+    "name:eng_x_variant":[
+        "Uaboe District"
+    ],
     "name:epo_x_preferred":[
         "Uaboe"
     ],
@@ -54,6 +60,9 @@
         "Uaboe"
     ],
     "name:fra_x_preferred":[
+        "Uaboe"
+    ],
+    "name:frr_x_preferred":[
         "Uaboe"
     ],
     "name:glv_x_preferred":[
@@ -296,7 +305,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251342,
     "wof:name":"Uaboe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Anetan"
     ],
+    "name:ceb_x_preferred":[
+        "Anetan District"
+    ],
     "name:dan_x_preferred":[
         "Anetan"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Anetan"
+    ],
+    "name:eng_x_variant":[
+        "Anetan District"
     ],
     "name:epo_x_preferred":[
         "Anetan"
@@ -294,7 +300,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251340,
     "wof:name":"Anetan",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

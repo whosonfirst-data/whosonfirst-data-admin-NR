@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Nibok"
     ],
+    "name:ceb_x_preferred":[
+        "Nibok District"
+    ],
     "name:dan_x_preferred":[
         "Nibok"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Nibok"
+    ],
+    "name:eng_x_variant":[
+        "Nibok District"
     ],
     "name:epo_x_preferred":[
         "Nibok"
@@ -88,6 +94,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10d1\u10dd\u10d9\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0438\u0431\u043e\u043a"
     ],
     "name:kor_x_preferred":[
         "\ub2c8\ubcf4\ud06c \uad6c"
@@ -295,7 +304,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251339,
     "wof:name":"Nibok",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

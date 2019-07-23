@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Ijuw"
     ],
+    "name:ceb_x_preferred":[
+        "Ijuw District"
+    ],
     "name:dan_x_preferred":[
         "Ijuw"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Ijuw"
+    ],
+    "name:eng_x_variant":[
+        "Ijuw District"
     ],
     "name:epo_x_preferred":[
         "Ijuw"
@@ -294,7 +300,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251341,
     "wof:name":"Ijuw",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

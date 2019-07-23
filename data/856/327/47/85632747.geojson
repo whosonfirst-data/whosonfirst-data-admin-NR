@@ -59,6 +59,9 @@
     "name:ast_x_preferred":[
         "Nauru"
     ],
+    "name:azb_x_preferred":[
+        "\u0646\u0627\u0626\u0648\u0631\u0648"
+    ],
     "name:aze_x_preferred":[
         "Nauru"
     ],
@@ -68,17 +71,20 @@
     "name:bam_x_preferred":[
         "Nawuru"
     ],
+    "name:bar_x_preferred":[
+        "Nauru"
+    ],
     "name:bcl_x_preferred":[
         "Nauru"
     ],
     "name:bel_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
-    "name:bel_x_variant":[
-        "\u041d\u0430\u0443\u0440\u0443"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0989\u09b0\u09c1"
+    ],
+    "name:bis_x_preferred":[
+        "Nauru"
     ],
     "name:bjn_x_preferred":[
         "Nauru"
@@ -140,6 +146,9 @@
     "name:cym_x_preferred":[
         "Nawrw"
     ],
+    "name:cym_x_variant":[
+        "Nauru"
+    ],
     "name:dan_x_preferred":[
         "Nauru"
     ],
@@ -154,6 +163,9 @@
     ],
     "name:dsb_x_preferred":[
         "Nauru"
+    ],
+    "name:dty_x_preferred":[
+        "\u0928\u093e\u0909\u0930\u0941"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b1\u03bf\u03c5\u03c1\u03bf\u03cd"
@@ -209,6 +221,9 @@
     "name:frp_x_preferred":[
         "Naouru"
     ],
+    "name:frr_x_preferred":[
+        "Nauru"
+    ],
     "name:fry_x_preferred":[
         "Naur\u00fb"
     ],
@@ -241,6 +256,15 @@
     ],
     "name:gom_x_preferred":[
         "\u0928\u094c\u0930\u0941"
+    ],
+    "name:gor_x_preferred":[
+        "Nauru"
+    ],
+    "name:grn_x_preferred":[
+        "N\u00e1uru"
+    ],
+    "name:gsw_x_preferred":[
+        "Nauru"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acc\u0ab0\u0ac1"
@@ -362,6 +386,9 @@
     "name:lez_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
+    "name:lfn_x_preferred":[
+        "Nauero"
+    ],
     "name:lij_x_preferred":[
         "Nauru"
     ],
@@ -391,6 +418,9 @@
     ],
     "name:lug_x_preferred":[
         "Nawuru"
+    ],
+    "name:lzh_x_preferred":[
+        "\u8afe\u9b6f"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d57\u0d31\u0d41"
@@ -434,6 +464,12 @@
     "name:mya_x_preferred":[
         "\u1014\u1021\u1030\u101b\u1030\u1038\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:nah_x_preferred":[
+        "Nauru"
+    ],
+    "name:nan_x_preferred":[
+        "Nauru"
+    ],
     "name:nau_x_preferred":[
         "Naoero"
     ],
@@ -470,6 +506,9 @@
     "name:oci_x_preferred":[
         "Nauru"
     ],
+    "name:olo_x_preferred":[
+        "Nauru"
+    ],
     "name:ori_x_preferred":[
         "\u0b28\u0b3e\u0b09\u0b30\u0b41"
     ],
@@ -481,6 +520,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a28\u0a3e\u0a09\u0a30\u0a42"
+    ],
+    "name:pap_x_preferred":[
+        "Nauru"
     ],
     "name:pih_x_preferred":[
         "Nauruu"
@@ -515,6 +557,9 @@
     "name:run_x_preferred":[
         "Nawuru"
     ],
+    "name:rup_x_preferred":[
+        "Nauru"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
@@ -533,8 +578,14 @@
     "name:sco_x_preferred":[
         "Nauru"
     ],
+    "name:sgs_x_preferred":[
+        "Nauru"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dcf\u0dc0\u0dd4\u0dbb\u0dd4"
+    ],
+    "name:sin_x_variant":[
+        "\u0db1\u0dcf\u0d8c\u0dbb\u0dd6"
     ],
     "name:slk_x_preferred":[
         "Nauru"
@@ -599,6 +650,9 @@
     "name:tel_x_preferred":[
         "\u0c28\u0c4c\u0c30\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c28\u0c35\u0c42\u0c30\u0c41"
+    ],
     "name:tgk_x_preferred":[
         "\u041d\u0430\u0443\u0440\u0443"
     ],
@@ -619,6 +673,9 @@
         "Naulu"
     ],
     "name:tpi_x_preferred":[
+        "Nauru"
+    ],
+    "name:tuk_x_preferred":[
         "Nauru"
     ],
     "name:tur_x_preferred":[
@@ -659,6 +716,9 @@
     ],
     "name:vol_x_preferred":[
         "Naure\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Nauru"
     ],
     "name:war_x_preferred":[
         "Nauru"
@@ -849,7 +909,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1544059152,
+    "wof:lastmodified":1563251349,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

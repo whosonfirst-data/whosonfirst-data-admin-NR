@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Denigomodu"
     ],
+    "name:ceb_x_preferred":[
+        "Denigomodu District"
+    ],
     "name:dan_x_preferred":[
         "Denigomodu"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Denigomodu"
+    ],
+    "name:eng_x_variant":[
+        "Denigomodu District"
     ],
     "name:epo_x_preferred":[
         "Denigomodu"
@@ -77,6 +83,9 @@
     "name:ind_x_preferred":[
         "Daftar distrik di Nauru"
     ],
+    "name:ind_x_variant":[
+        "Denigomodu"
+    ],
     "name:ita_x_preferred":[
         "Denigomodu"
     ],
@@ -91,6 +100,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d4\u10dc\u10d8\u10d2\u10dd\u10db\u10dd\u10d3\u10e3"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0435\u043d\u0438\u0433\u043e\u043c\u043e\u0434\u0443"
     ],
     "name:kor_x_preferred":[
         "\ub370\ub2c8\uace0\ubaa8\ub450 \uad6c"
@@ -117,6 +129,9 @@
         "Denigomodu"
     ],
     "name:nld_x_preferred":[
+        "Denigomodu"
+    ],
+    "name:nno_x_preferred":[
         "Denigomodu"
     ],
     "name:nob_x_preferred":[
@@ -301,7 +316,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251336,
     "wof:name":"Denigomodu",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

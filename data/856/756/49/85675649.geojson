@@ -46,6 +46,9 @@
     "name:eng_x_preferred":[
         "Ewa"
     ],
+    "name:eng_x_variant":[
+        "Ewa District"
+    ],
     "name:epo_x_preferred":[
         "Ewa"
     ],
@@ -300,7 +303,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1561772677,
+    "wof:lastmodified":1563251345,
     "wof:name":"Ewa",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
