@@ -25,10 +25,106 @@
     "iso:country":"NR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ijuw"
+    ],
+    "name:ceb_x_preferred":[
+        "Ijuw District"
+    ],
+    "name:deu_x_preferred":[
+        "Ijuw"
+    ],
+    "name:epo_x_preferred":[
+        "Ijuw"
+    ],
+    "name:fin_x_preferred":[
+        "Ijuw"
+    ],
+    "name:fra_x_preferred":[
+        "Ijuw"
+    ],
+    "name:frr_x_preferred":[
+        "Ijuw"
+    ],
+    "name:glv_x_preferred":[
+        "Ijuw"
+    ],
+    "name:hrv_x_preferred":[
+        "Ijuw"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0578\u0582\u057e"
+    ],
+    "name:ind_x_preferred":[
+        "Ijuw"
+    ],
+    "name:ita_x_preferred":[
+        "Ijuw"
+    ],
+    "name:jav_x_preferred":[
+        "Ijuw"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b8\u30e5\u30a6\u5730\u533a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e3\u10d5\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc720\ube0c \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Ijuvas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0458\u0443\u0432"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0418\u044e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Ijuw"
+    ],
+    "name:nau_x_preferred":[
+        "Ijuw"
+    ],
+    "name:nld_x_preferred":[
+        "Ijuw"
+    ],
+    "name:nor_x_preferred":[
+        "Ijuw"
+    ],
+    "name:pol_x_preferred":[
+        "Ijuw"
+    ],
+    "name:por_x_preferred":[
+        "Ijuw"
+    ],
+    "name:ron_x_preferred":[
+        "Ijuw"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u044e\u0432"
+    ],
+    "name:smo_x_preferred":[
+        "Ijuw"
+    ],
+    "name:swe_x_preferred":[
+        "Ijuw"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130yuv"
+    ],
     "name:und_x_variant":[
         "Ijuh",
         "Ijub",
         "Ijuw"
+    ],
+    "name:vie_x_preferred":[
+        "Ijuw"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u73e0\u5340"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -49,7 +145,7 @@
         }
     ],
     "wof:id":1343251103,
-    "wof:lastmodified":1537676138,
+    "wof:lastmodified":1564120166,
     "wof:name":"Ijuw",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
