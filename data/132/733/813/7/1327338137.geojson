@@ -25,11 +25,50 @@
     "iso:country":"NR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Baiti"
+    ],
+    "name:ceb_x_preferred":[
+        "Baiti District"
+    ],
+    "name:deu_x_preferred":[
+        "Baiti"
+    ],
     "name:eng_x_preferred":[
         "Baitsi District"
     ],
+    "name:epo_x_preferred":[
+        "Baiti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0628\u0627\u06cc\u062a\u0633\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Baiti"
+    ],
+    "name:fra_x_preferred":[
+        "Baiti"
+    ],
+    "name:frr_x_preferred":[
+        "Baitsi"
+    ],
+    "name:glv_x_preferred":[
+        "Baiti"
+    ],
+    "name:hrv_x_preferred":[
+        "Baiti"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u056b\u057f\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Baiti"
+    ],
+    "name:ita_x_preferred":[
+        "Baiti"
+    ],
+    "name:jav_x_preferred":[
+        "Baiti"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30a4\u30c1\u5730\u533a"
@@ -49,11 +88,41 @@
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0438\u0442\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Baiti"
+    ],
+    "name:nau_x_preferred":[
+        "Baiti"
+    ],
+    "name:nld_x_preferred":[
+        "Baiti"
+    ],
+    "name:nor_x_preferred":[
+        "Baiti"
+    ],
+    "name:pol_x_preferred":[
+        "Baiti"
+    ],
     "name:por_x_preferred":[
         "Baitsi"
     ],
+    "name:ron_x_preferred":[
+        "Baiti"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0438\u0442\u0438"
+    ],
+    "name:smo_x_preferred":[
+        "Baiti"
+    ],
+    "name:swe_x_preferred":[
+        "Baiti"
+    ],
+    "name:tur_x_preferred":[
+        "Baiti"
+    ],
+    "name:vie_x_preferred":[
+        "Baiti"
     ],
     "name:zho_x_preferred":[
         "\u767d\u5e1d\u5340"
@@ -81,7 +150,7 @@
         }
     ],
     "wof:id":1327338137,
-    "wof:lastmodified":1537676138,
+    "wof:lastmodified":1564120164,
     "wof:name":"Baiti",
     "wof:parent_id":85675645,
     "wof:placetype":"locality",
