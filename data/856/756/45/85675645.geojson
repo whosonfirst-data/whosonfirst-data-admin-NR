@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":-0.504736,
     "lbl:longitude":166.928863,
     "mps:latitude":-0.504736,
@@ -289,9 +292,6 @@
         }
     ],
     "wof:id":85675645,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -300,7 +300,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251338,
+    "wof:lastmodified":1565732140,
     "wof:name":"Baiti",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

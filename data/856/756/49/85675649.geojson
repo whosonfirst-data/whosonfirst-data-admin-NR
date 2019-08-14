@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EW"
+    ],
     "lbl:latitude":-0.500717,
     "lbl:longitude":166.933092,
     "mps:latitude":-0.500717,
@@ -292,9 +295,6 @@
         }
     ],
     "wof:id":85675649,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -303,7 +303,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251345,
+    "wof:lastmodified":1565732141,
     "wof:name":"Ewa",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

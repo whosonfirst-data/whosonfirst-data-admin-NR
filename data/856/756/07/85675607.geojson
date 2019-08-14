@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":-0.528398,
     "lbl:longitude":166.924533,
     "mps:latitude":-0.528398,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85675607,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -312,7 +312,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251338,
+    "wof:lastmodified":1565732141,
     "wof:name":"Buada",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

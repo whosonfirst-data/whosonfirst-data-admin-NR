@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YA"
+    ],
     "lbl:latitude":-0.543505,
     "lbl:longitude":166.923541,
     "mps:latitude":-0.543505,
@@ -443,7 +446,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251344,
+    "wof:lastmodified":1565732141,
     "wof:name":"Yaren",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

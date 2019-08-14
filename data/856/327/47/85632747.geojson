@@ -15,6 +15,9 @@
     "itu:country_code":[
         "674"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NR"
+    ],
     "lbl:latitude":-0.520261,
     "lbl:longitude":166.932644,
     "mps:latitude":-0.520261,
@@ -898,9 +901,6 @@
         }
     ],
     "wof:id":85632747,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -909,7 +909,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251349,
+    "wof:lastmodified":1565732141,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

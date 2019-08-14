@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UA"
+    ],
     "lbl:latitude":-0.508139,
     "lbl:longitude":166.925688,
     "mps:latitude":-0.508139,
@@ -294,9 +297,6 @@
         }
     ],
     "wof:id":85675641,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -305,7 +305,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251342,
+    "wof:lastmodified":1565732141,
     "wof:name":"Uaboe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

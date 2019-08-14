@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AB"
+    ],
     "lbl:latitude":-0.497516,
     "lbl:longitude":166.943633,
     "mps:latitude":-0.497516,
@@ -301,9 +304,6 @@
         }
     ],
     "wof:id":85675659,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -312,7 +312,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251333,
+    "wof:lastmodified":1565732140,
     "wof:name":"Anabar",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

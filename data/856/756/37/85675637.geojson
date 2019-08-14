@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":-0.513986,
     "lbl:longitude":166.921408,
     "mps:latitude":-0.513986,
@@ -293,9 +296,6 @@
         }
     ],
     "wof:id":85675637,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -304,7 +304,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251339,
+    "wof:lastmodified":1565732141,
     "wof:name":"Nibok",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

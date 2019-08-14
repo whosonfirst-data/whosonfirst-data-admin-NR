@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":-0.519962,
     "lbl:longitude":166.946729,
     "mps:latitude":-0.519962,
@@ -295,9 +298,6 @@
         }
     ],
     "wof:id":85675667,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "nau"
@@ -306,7 +306,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1563251335,
+    "wof:lastmodified":1565732140,
     "wof:name":"Anibare",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
