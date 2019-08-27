@@ -23,8 +23,12 @@
     "gn:population":810,
     "gn:timezone":"Pacific/Nauru",
     "iso:country":"NR",
+    "lbl:bbox":"166.90945,-0.52803,166.94945,-0.48803",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Baiti"
     ],
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":1327338137,
-    "wof:lastmodified":1564120164,
+    "wof:lastmodified":1566672063,
     "wof:name":"Baiti",
     "wof:parent_id":85675645,
     "wof:placetype":"locality",

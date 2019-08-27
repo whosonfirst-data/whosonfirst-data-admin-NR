@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":-0.538758,
     "lbl:longitude":166.915789,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.538758,
     "mps:longitude":166.915789,
     "mz:hierarchy_label":1,
@@ -162,7 +163,7 @@
         "Boe"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c4b\u0c2f\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -175,9 +176,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Boe District"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648 \u0636\u0644\u0639"
@@ -257,9 +255,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-30",
+    "src:population_date":"2011-10-30",
     "statoids:area_km":"1",
     "statoids:area_mi":"0",
     "statoids:as_of_date":"2011-10-30",
@@ -284,7 +282,7 @@
         "gp:id":20070299,
         "hasc:id":"NR.BO",
         "iso:id":"NR-06",
-        "qs:id":49490,
+        "qs_pg:id":49490,
         "unlc:id":"NR-06",
         "wd:id":"Q378829",
         "wk:page":"Boe District"
@@ -307,11 +305,10 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1565732141,
+    "wof:lastmodified":1566672066,
     "wof:name":"Boe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":851,
     "wof:population_rank":2,

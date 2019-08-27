@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-0.539608,
     "lbl:longitude":166.938592,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.539608,
     "mps:longitude":166.938592,
     "mz:hierarchy_label":1,
@@ -175,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041c\u0435\u043d\u0435\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Menen"
     ],
     "name:urd_x_preferred":[
@@ -256,9 +257,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-30",
+    "src:population_date":"2011-10-30",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2011-10-30",
@@ -283,7 +284,7 @@
         "gp:id":20070301,
         "hasc:id":"NR.ME",
         "iso:id":"NR-11",
-        "qs:id":49491,
+        "qs_pg:id":49491,
         "unlc:id":"NR-11",
         "wd:id":"Q327788",
         "wk:page":"Meneng District"
@@ -306,11 +307,10 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1565732140,
+    "wof:lastmodified":1566672064,
     "wof:name":"Meneng",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1380,
     "wof:population_rank":3,
