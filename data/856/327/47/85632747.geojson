@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-0.520261,
     "lbl:longitude":166.932644,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-0.520261,
     "mps:longitude":166.932644,
     "mz:hierarchy_label":1,
@@ -697,9 +699,7 @@
         "\u041d\u0430\u0443\u0440\u0443"
     ],
     "name:und_x_variant":[
-        "Republika Nauru"
-    ],
-    "name:unk_x_variant":[
+        "Republika Nauru",
         "Trust Territory of Nauru"
     ],
     "name:urd_x_preferred":[
@@ -840,7 +840,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"674",
     "statoids:ds":"NAU",
@@ -885,7 +885,7 @@
         "mzb:id":"nauru",
         "ne:adm0_a3":"NRU",
         "nyt:id":"50581473011748044801",
-        "qs:id":1109848,
+        "qs_pg:id":1109848,
         "uncrt:id":"NAU",
         "wd:id":"Q697",
         "wk:page":"Nauru",
@@ -909,7 +909,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1565732141,
+    "wof:lastmodified":1566672066,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

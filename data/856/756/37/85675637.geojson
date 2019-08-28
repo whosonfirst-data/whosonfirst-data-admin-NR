@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":-0.513986,
     "lbl:longitude":166.921408,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.513986,
     "mps:longitude":166.921408,
     "mz:hierarchy_label":1,
@@ -173,9 +174,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041d\u0456\u0431\u043e\u043a"
     ],
-    "name:unk_x_variant":[
-        "Nibok District"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0628\u0648\u06a9 \u0636\u0644\u0639"
     ],
@@ -254,9 +252,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-30",
+    "src:population_date":"2011-10-30",
     "statoids:area_km":"2",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2011-10-30",
@@ -281,7 +279,7 @@
         "gp:id":20070306,
         "hasc:id":"NR.NI",
         "iso:id":"NR-12",
-        "qs:id":49495,
+        "qs_pg:id":49495,
         "unlc:id":"NR-12",
         "wd:id":"Q378780",
         "wk:page":"Nibok District"
@@ -304,11 +302,10 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1565732141,
+    "wof:lastmodified":1566672065,
     "wof:name":"Nibok",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":484,
     "wof:population_rank":2,

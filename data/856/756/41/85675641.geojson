@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":-0.508139,
     "lbl:longitude":166.925688,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.508139,
     "mps:longitude":166.925688,
     "mz:hierarchy_label":1,
@@ -159,7 +160,7 @@
         "Uaboe"
     ],
     "name:tam_x_preferred":[
-        "\u0b89\u0bb5\u0baa\u0bcb\u0baf\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b89\u0bb5\u0baa\u0bcb\u0baf\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c41\u0c35\u0c3e\u0c2c\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -172,9 +173,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0423\u0430\u0431\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Uaboe District"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0628\u0648\u06cc \u0636\u0644\u0639"
@@ -254,9 +252,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-10-30",
+    "src:population_date":"2011-10-30",
     "statoids:area_km":"1",
     "statoids:area_mi":"0",
     "statoids:as_of_date":"2011-10-30",
@@ -282,7 +280,7 @@
         "gp:id":20070307,
         "hasc:id":"NR.UA",
         "iso:id":"NR-13",
-        "qs:id":66072,
+        "qs_pg:id":66072,
         "unlc:id":"NR-13",
         "wd:id":"Q473764",
         "wk:page":"Uaboe District"
@@ -305,11 +303,10 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1565732141,
+    "wof:lastmodified":1566672065,
     "wof:name":"Uaboe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":318,
     "wof:population_rank":2,
