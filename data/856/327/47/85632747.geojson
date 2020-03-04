@@ -893,6 +893,11 @@
     },
     "wof:country":"NR",
     "wof:country_alpha3":"NRU",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8eec6e6ba1c6a4f62275889cdf88096f",
     "wof:hierarchy":[
         {
@@ -909,7 +914,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672066,
+    "wof:lastmodified":1582315519,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
