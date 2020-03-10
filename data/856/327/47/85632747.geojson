@@ -869,9 +869,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Nauru",
-        "digitalenvoy:country_code":[
-            520
-        ],
+        "digitalenvoy:country_code":520,
         "fb:id":"en.nauru",
         "fifa:id":"NRU",
         "fips:code":"NR",
@@ -917,7 +915,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1583529199,
+    "wof:lastmodified":1583797407,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
