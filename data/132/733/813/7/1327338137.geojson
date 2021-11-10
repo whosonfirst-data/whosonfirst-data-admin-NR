@@ -59,7 +59,13 @@
     "name:glv_x_preferred":[
         "Baiti"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05d8\u05d9"
+    ],
     "name:hrv_x_preferred":[
+        "Baiti"
+    ],
+    "name:hun_x_preferred":[
         "Baiti"
     ],
     "name:hye_x_preferred":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":1327338137,
-    "wof:lastmodified":1566672063,
+    "wof:lastmodified":1636494972,
     "wof:name":"Baiti",
     "wof:parent_id":85675645,
     "wof:placetype":"locality",

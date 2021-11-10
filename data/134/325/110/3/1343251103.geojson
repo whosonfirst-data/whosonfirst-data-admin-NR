@@ -53,7 +53,13 @@
     "name:glv_x_preferred":[
         "Ijuw"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Ijuw"
+    ],
+    "name:hun_x_preferred":[
         "Ijuw"
     ],
     "name:hye_x_preferred":[
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1343251103,
-    "wof:lastmodified":1566672064,
+    "wof:lastmodified":1636494972,
     "wof:name":"Ijuw",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

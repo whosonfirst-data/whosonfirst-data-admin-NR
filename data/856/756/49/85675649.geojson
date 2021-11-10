@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
     "geom:area_square_m":1111828.13098,
-    "geom:bbox":"166.925126244,-0.510520413886,166.938986658,-0.49334020079",
+    "geom:bbox":"166.925126,-0.51052,166.938987,-0.49334",
     "geom:latitude":-0.500784,
     "geom:longitude":166.932987,
     "gn:population":397,
@@ -68,10 +68,16 @@
     "name:guj_x_preferred":[
         "\u0a87\u0ab5\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0935\u093e \u091c\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Ewa"
+    ],
+    "name:hun_x_preferred":[
         "Ewa"
     ],
     "name:hye_x_preferred":[
@@ -284,7 +290,7 @@
         "wk:page":"Ewa District, Nauru"
     },
     "wof:country":"NR",
-    "wof:geomhash":"2848ca6e3074faeba808c0528addde32",
+    "wof:geomhash":"0606842d32b9c24c34e6b7a0a7ed300b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -301,7 +307,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672066,
+    "wof:lastmodified":1636494974,
     "wof:name":"Ewa",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -316,10 +322,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.92512624428082,
-    -0.51052041388596,
-    166.93898665770814,
-    -0.49334020078959
+    166.925126,
+    -0.51052,
+    166.938987,
+    -0.49334
 ],
-  "geometry": {"coordinates":[[[166.93898665770814,-0.50418296786961],[166.93804777718321,-0.51052041388596],[166.92512624428082,-0.4956750854368],[166.93119694418374,-0.49334020078959],[166.93898665770814,-0.50418296786961]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.938987,-0.504183],[166.93804800000001,-0.51052],[166.92512600000001,-0.495675],[166.931197,-0.49334],[166.938987,-0.504183]]],"type":"Polygon"}
 }

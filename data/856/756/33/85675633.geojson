@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
     "geom:area_square_m":1168487.311472,
-    "geom:bbox":"166.906993035,-0.524834894115,166.920376362,-0.512106850351",
+    "geom:bbox":"166.906993,-0.524835,166.920376,-0.512107",
     "geom:latitude":-0.519901,
     "geom:longitude":166.912935,
     "gn:elevation":5,
@@ -79,6 +79,9 @@
         "\u0921\u0947\u0928\u0940\u0917\u094b\u092e\u094b\u0926\u0941 \u091c\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Denigomodu"
+    ],
+    "name:hun_x_preferred":[
         "Denigomodu"
     ],
     "name:hye_x_preferred":[
@@ -300,7 +303,7 @@
         "wk:page":"Denigomodu District"
     },
     "wof:country":"NR",
-    "wof:geomhash":"dce43476f79f1995bfaeb8b87024055e",
+    "wof:geomhash":"f23f17ede9c0fd8a35806e7ad4c37a24",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -317,7 +320,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672064,
+    "wof:lastmodified":1636494973,
     "wof:name":"Denigomodu",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -332,10 +335,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.90699303490067,
-    -0.52483489411503,
-    166.92037636247926,
-    -0.51210685035079
+    166.906993,
+    -0.524835,
+    166.920376,
+    -0.512107
 ],
-  "geometry": {"coordinates":[[[166.92037636247926,-0.52068643752904],[166.9168649856307,-0.5241978143776],[166.90699303490067,-0.52483489411503],[166.91031156742497,-0.51210685035079],[166.92037636247926,-0.52068643752904]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.920376,-0.520686],[166.916865,-0.524198],[166.906993,-0.524835],[166.910312,-0.512107],[166.920376,-0.520686]]],"type":"Polygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
     "geom:area_square_m":1664395.010328,
-    "geom:bbox":"166.918067292,-0.516515986224,166.938047777,-0.495675085437",
+    "geom:bbox":"166.918067,-0.516516,166.938048,-0.495675",
     "geom:latitude":-0.504861,
     "geom:longitude":166.929014,
     "gn:population":810,
@@ -71,10 +71,16 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac8\u0aa4\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d9\u05d8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0948\u0924\u0940 \u091c\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Baiti"
+    ],
+    "name:hun_x_preferred":[
         "Baiti"
     ],
     "name:hye_x_preferred":[
@@ -284,7 +290,7 @@
         "wk:page":"Baitsi District"
     },
     "wof:country":"NR",
-    "wof:geomhash":"52267be8695a4cfce25ae01351c2cd41",
+    "wof:geomhash":"5dca82b58daaa19502c55b61dad14022",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -301,7 +307,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672065,
+    "wof:lastmodified":1636494973,
     "wof:name":"Baiti",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -316,10 +322,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.91806729197197,
-    -0.51651598622374,
-    166.93804777718321,
-    -0.4956750854368
+    166.918067,
+    -0.516516,
+    166.938048,
+    -0.495675
 ],
-  "geometry": {"coordinates":[[[166.93804777718321,-0.51052041388596],[166.93758210732847,-0.51366368473123],[166.93723983165296,-0.51651598622374],[166.91806729197197,-0.49839006764745],[166.92512624428082,-0.4956750854368],[166.93804777718321,-0.51052041388596]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.93804800000001,-0.51052],[166.93758199999999,-0.513664],[166.93724,-0.516516],[166.91806700000001,-0.49839],[166.92512600000001,-0.495675],[166.93804800000001,-0.51052]]],"type":"Polygon"}
 }

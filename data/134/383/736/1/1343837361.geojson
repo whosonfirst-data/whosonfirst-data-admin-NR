@@ -54,7 +54,13 @@
     "name:glv_x_preferred":[
         "Uaboe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d4\u05d1\u05d5\u05d0\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Uaboe"
+    ],
+    "name:hun_x_preferred":[
         "Uaboe"
     ],
     "name:hye_x_preferred":[
@@ -139,7 +145,7 @@
         "wk:page":"Uaboe_District"
     },
     "wof:country":"NR",
-    "wof:geomhash":"9e4e98a13a461d948098e78a94cf4d3f",
+    "wof:geomhash":"b49ad9fd121aa92747a2fa5ddc3e2616",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":1343837361,
-    "wof:lastmodified":1566672064,
+    "wof:lastmodified":1636494972,
     "wof:name":"Uaboe",
     "wof:parent_id":85675637,
     "wof:placetype":"locality",
@@ -161,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.92383999999996,
+    166.92384,
     -0.51393,
-    166.92383999999996,
+    166.92384,
     -0.51393
 ],
-  "geometry": {"coordinates":[166.92383999999996,-0.51393],"type":"Point"}
+  "geometry": {"coordinates":[166.92384000000001,-0.51393],"type":"Point"}
 }

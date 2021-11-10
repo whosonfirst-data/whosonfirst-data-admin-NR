@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
     "geom:area_square_m":1419223.860271,
-    "geom:bbox":"166.938812696,-0.50418296787,166.955577019,-0.490411065718",
+    "geom:bbox":"166.938813,-0.504183,166.955577,-0.490411",
     "geom:latitude":-0.497524,
     "geom:longitude":166.944459,
     "gn:population":378,
@@ -186,9 +186,15 @@
         "Aneber"
     ],
     "name:urd_x_preferred":[
+        "\u0622\u0646\u0627\u0628\u0627\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u0646\u0627\u0628\u0631 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Anabar"
+    ],
+    "name:vie_x_variant":[
         "Anabar"
     ],
     "name:zho_x_preferred":[
@@ -296,7 +302,7 @@
         "wk:page":"Anabar District"
     },
     "wof:country":"NR",
-    "wof:geomhash":"1cd2e55ef855fd4baa87734b004f7dfe",
+    "wof:geomhash":"98a61a1a6470923aac967daee0afaaf0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +319,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672064,
+    "wof:lastmodified":1636494972,
     "wof:name":"Anabar",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -328,10 +334,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.93881269644885,
-    -0.50418296786961,
-    166.95557701896428,
-    -0.49041106571803
+    166.938813,
+    -0.504183,
+    166.955577,
+    -0.490411
 ],
-  "geometry": {"coordinates":[[[166.95557701896428,-0.49797942461072],[166.93898665770814,-0.50418296786961],[166.93881269644885,-0.49041106571803],[166.95557701896428,-0.49797942461072]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.95557700000001,-0.497979],[166.938987,-0.504183],[166.93881300000001,-0.490411],[166.95557700000001,-0.497979]]],"type":"Polygon"}
 }

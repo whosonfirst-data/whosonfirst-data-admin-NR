@@ -17,6 +17,12 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d9\u05d1\u05d0\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Anibare"
+    ],
     "name:und_x_variant":[
         "Enniberri"
     ],
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":421186351,
-    "wof:lastmodified":1566672067,
+    "wof:lastmodified":1636494974,
     "wof:name":"Anibare",
     "wof:parent_id":85675667,
     "wof:placetype":"locality",

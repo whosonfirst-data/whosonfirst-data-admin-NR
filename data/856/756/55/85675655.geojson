@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
     "geom:area_square_m":651577.742382,
-    "geom:bbox":"166.931196944,-0.50418296787,166.938986658,-0.490411065718",
+    "geom:bbox":"166.931197,-0.504183,166.938987,-0.490411",
     "geom:latitude":-0.495978,
     "geom:longitude":166.936332,
     "gn:population":880,
@@ -71,10 +71,16 @@
     "name:guj_x_preferred":[
         "\u0a8f\u0aa8\u0ac7\u0a9f\u0aa8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05d8\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u090f\u0928\u0947\u091f\u0928 \u091c\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Anetan"
+    ],
+    "name:hun_x_preferred":[
         "Anetan"
     ],
     "name:hye_x_preferred":[
@@ -281,7 +287,7 @@
         "wk:page":"Anetan District"
     },
     "wof:country":"NR",
-    "wof:geomhash":"d1dd0820c5f6224628f91ea3b38d0674",
+    "wof:geomhash":"d3ac33e796fc8980c1b9e5ecc4e72486",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -298,7 +304,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672065,
+    "wof:lastmodified":1636494973,
     "wof:name":"Anetan",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -313,10 +319,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.93119694418374,
-    -0.50418296786961,
-    166.93898665770814,
-    -0.49041106571803
+    166.931197,
+    -0.504183,
+    166.938987,
+    -0.490411
 ],
-  "geometry": {"coordinates":[[[166.93898665770814,-0.50418296786961],[166.93119694418374,-0.49334020078959],[166.93881269644885,-0.49041106571803],[166.93898665770814,-0.50418296786961]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.938987,-0.504183],[166.931197,-0.49334],[166.93881300000001,-0.490411],[166.938987,-0.504183]]],"type":"Polygon"}
 }

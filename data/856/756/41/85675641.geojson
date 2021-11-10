@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
     "geom:area_square_m":1319294.730301,
-    "geom:bbox":"166.913422071,-0.520199054443,166.937239832,-0.498390067647",
+    "geom:bbox":"166.913422,-0.520199,166.93724,-0.49839",
     "geom:latitude":-0.508262,
     "geom:longitude":166.925688,
     "gn:id":"",
@@ -75,10 +75,16 @@
     "name:guj_x_preferred":[
         "\u0aaf\u0ac1\u0aac\u0acb\u0a87 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d4\u05d1\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u0941\u0906\u092c\u094b \u091c\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Uaboe"
+    ],
+    "name:hun_x_preferred":[
         "Uaboe"
     ],
     "name:hye_x_preferred":[
@@ -286,7 +292,7 @@
         "wk:page":"Uaboe District"
     },
     "wof:country":"NR",
-    "wof:geomhash":"e9613a6fca3952b1f78a6213ad0e644c",
+    "wof:geomhash":"66e8366bcd196289f51fec6631e3f1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -303,7 +309,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672065,
+    "wof:lastmodified":1636494974,
     "wof:name":"Uaboe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -318,10 +324,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.91342207147147,
-    -0.52019905444274,
-    166.93723983165296,
-    -0.49839006764745
+    166.913422,
+    -0.520199,
+    166.93724,
+    -0.49839
 ],
-  "geometry": {"coordinates":[[[166.93723983165296,-0.51651598622374],[166.93679786343068,-0.52019905444274],[166.91342207147147,-0.5001766905018],[166.91806729197197,-0.49839006764745],[166.93723983165296,-0.51651598622374]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.93724,-0.516516],[166.93679800000001,-0.520199],[166.913422,-0.500177],[166.91806700000001,-0.49839],[166.93724,-0.516516]]],"type":"Polygon"}
 }
