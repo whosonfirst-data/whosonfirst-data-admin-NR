@@ -33,6 +33,9 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0625\u064a\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0410\u043a\u0440\u0443\u0433\u0430 \u0410\u0439\u0432\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09af\u09bc\u09cb \u099c\u09c7\u09b2\u09be"
     ],
@@ -63,10 +66,16 @@
     "name:est_x_preferred":[
         "Aiwo ringkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0622\u06cc\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Aiwo"
     ],
     "name:fra_x_preferred":[
+        "Aiwo"
+    ],
+    "name:frr_x_preferred":[
         "Aiwo"
     ],
     "name:glg_x_preferred":[
@@ -89,6 +98,9 @@
     ],
     "name:hun_x_preferred":[
         "Aiwo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u057e\u0578"
     ],
     "name:ind_x_preferred":[
         "Aiwo"
@@ -113,6 +125,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\uc774\uc6cc \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\uc6cc\uad6c"
     ],
     "name:lat_x_preferred":[
         "Aivum"
@@ -162,6 +177,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0439\u0432\u043e"
     ],
+    "name:sgs_x_preferred":[
+        "Aivos"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0dba\u0dd2\u0dc0\u0ddd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -200,6 +218,9 @@
     ],
     "name:zho_x_preferred":[
         "\u611b\u548c\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u827e\u6c83\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -320,7 +341,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494973,
+    "wof:lastmodified":1690849754,
     "wof:name":"Aiwo",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

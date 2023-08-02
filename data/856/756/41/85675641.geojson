@@ -60,6 +60,12 @@
     "name:epo_x_preferred":[
         "Uaboe"
     ],
+    "name:est_x_preferred":[
+        "Uaboe ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0648\u0627\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Uaboe"
     ],
@@ -110,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc544\ubcf4\uc5d0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc544\ubcf4\uc5d0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Uaboe distrikts"
@@ -188,6 +197,9 @@
     ],
     "name:zho_x_preferred":[
         "\u512a\u96c5\u5e03\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u535a\u57c3\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -309,7 +321,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494974,
+    "wof:lastmodified":1690849755,
     "wof:name":"Uaboe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

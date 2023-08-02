@@ -59,10 +59,19 @@
     "name:epo_x_preferred":[
         "Anetan"
     ],
+    "name:est_x_preferred":[
+        "Anetani ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0622\u0646\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Anetan"
     ],
     "name:fra_x_preferred":[
+        "Anetan"
+    ],
+    "name:frr_x_preferred":[
         "Anetan"
     ],
     "name:glv_x_preferred":[
@@ -107,6 +116,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub124\ud0c4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub124\ud0c4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Anetanas distrikts"
     ],
@@ -149,6 +161,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0435\u0442\u0430\u043d"
     ],
+    "name:sgs_x_preferred":[
+        "Anetans"
+    ],
     "name:sin_x_preferred":[
         "\u0d87\u0db1\u0dd9\u0da7\u0db1\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -184,6 +199,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u9102\u7058\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5185\u5766\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -304,7 +322,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494973,
+    "wof:lastmodified":1690849755,
     "wof:name":"Anetan",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
