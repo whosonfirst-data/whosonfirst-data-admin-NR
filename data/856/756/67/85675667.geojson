@@ -59,6 +59,9 @@
     "name:epo_x_preferred":[
         "Anibare"
     ],
+    "name:est_x_preferred":[
+        "Anibare ringkond"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u062e\u0634 \u0627\u0646\u06cc\u0628\u06cc\u0631"
     ],
@@ -113,6 +116,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub2c8\ubc14\ub808 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub2c8\ubc14\ub808\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Anabares distrikts"
     ],
@@ -155,6 +161,9 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0438\u0431\u0430\u0440"
     ],
+    "name:sgs_x_preferred":[
+        "An\u012bbars"
+    ],
     "name:sin_x_preferred":[
         "\u0d85\u0db1\u0dd2\u0db6\u0dbb\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -190,6 +199,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5c3c\u5df4\u60f9\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c3c\u5df4\u96f7\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -310,7 +322,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494972,
+    "wof:lastmodified":1690849753,
     "wof:name":"Anibare",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

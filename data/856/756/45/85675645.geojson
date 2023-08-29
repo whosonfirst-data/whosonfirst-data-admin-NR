@@ -59,11 +59,20 @@
     "name:epo_x_preferred":[
         "Baiti"
     ],
+    "name:est_x_preferred":[
+        "Baiti ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0628\u0627\u06cc\u062a\u0633\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Baiti"
     ],
     "name:fra_x_preferred":[
         "Baiti"
+    ],
+    "name:frr_x_preferred":[
+        "Baitsi"
     ],
     "name:glv_x_preferred":[
         "Baiti"
@@ -106,6 +115,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc774\ud2f0 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc774\ud2f0\uad6c"
     ],
     "name:lav_x_preferred":[
         "Baiti distrikts"
@@ -187,6 +199,9 @@
     ],
     "name:zho_x_preferred":[
         "\u767d\u5e1d\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u62dc\u9f50\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -307,7 +322,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494973,
+    "wof:lastmodified":1690849754,
     "wof:name":"Baiti",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

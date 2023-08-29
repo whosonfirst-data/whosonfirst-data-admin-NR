@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
     "geom:area_square_m":1739415.404329,
-    "geom:bbox":"166.916351759,-0.550667846144,166.932640312,-0.534380806429",
+    "geom:bbox":"166.916352,-0.550668,166.93264,-0.534381",
     "geom:latitude":-0.543719,
     "geom:longitude":166.924097,
     "gn:id":"",
@@ -42,11 +42,23 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u064a\u0627\u0631\u064a\u0646"
     ],
+    "name:ary_x_preferred":[
+        "\u064a\u0627\u0631\u064a\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u064a\u0627\u0631\u064a\u0646"
+    ],
     "name:ast_x_preferred":[
+        "Yaren"
+    ],
+    "name:avk_x_preferred":[
         "Yaren"
     ],
     "name:aze_x_preferred":[
         "Yaren"
+    ],
+    "name:ban_x_preferred":[
+        "Distrik Yar\u00e9n"
     ],
     "name:bel_x_preferred":[
         "\u042f\u0440\u044d\u043d"
@@ -74,6 +86,9 @@
     ],
     "name:ces_x_preferred":[
         "Yaren"
+    ],
+    "name:chu_x_preferred":[
+        "\ua656\u0440\u0454\u043d\u044a"
     ],
     "name:cym_x_preferred":[
         "Yaren"
@@ -114,8 +129,14 @@
     "name:fra_x_preferred":[
         "Yaren"
     ],
+    "name:frr_x_preferred":[
+        "Yaren"
+    ],
     "name:gla_x_preferred":[
         "Yaren"
+    ],
+    "name:gle_x_preferred":[
+        "Ceantar Yaren"
     ],
     "name:glg_x_preferred":[
         "Yaren"
@@ -156,6 +177,9 @@
     "name:ind_x_preferred":[
         "Yaren"
     ],
+    "name:isl_x_preferred":[
+        "Jaren"
+    ],
     "name:ita_x_preferred":[
         "Yaren"
     ],
@@ -178,7 +202,8 @@
         "\uc57c\ub80c"
     ],
     "name:kor_x_variant":[
-        "\uc57c\ub80c \uad6c"
+        "\uc57c\ub80c \uad6c",
+        "\uc57c\ub80c\uad6c"
     ],
     "name:lat_x_preferred":[
         "Yarenum"
@@ -188,6 +213,9 @@
     ],
     "name:lav_x_preferred":[
         "Jarena"
+    ],
+    "name:lij_x_preferred":[
+        "Yaren"
     ],
     "name:lit_x_preferred":[
         "Jarenas"
@@ -228,8 +256,14 @@
     "name:oci_x_preferred":[
         "Yaren"
     ],
+    "name:oss_x_preferred":[
+        "\u042f\u0440\u0435\u043d"
+    ],
     "name:pan_x_preferred":[
         "\u0a2f\u0a3e\u0a30\u0a28 \u0a1c\u0a3c\u0a3f\u0a32\u0a4d\u0a39\u0a3e"
+    ],
+    "name:pih_x_preferred":[
+        "Yaren"
     ],
     "name:pol_x_preferred":[
         "Yaren"
@@ -251,6 +285,9 @@
     ],
     "name:sco_x_preferred":[
         "Yaren"
+    ],
+    "name:sgs_x_preferred":[
+        "Jarens"
     ],
     "name:sin_x_preferred":[
         "\u0dba\u0dbb\u0dd9\u0db1\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
@@ -282,6 +319,9 @@
     "name:swe_x_preferred":[
         "Yaren"
     ],
+    "name:szl_x_preferred":[
+        "Yaren"
+    ],
     "name:tah_x_preferred":[
         "Yaren"
     ],
@@ -290,6 +330,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c2f\u0c46\u0c30\u0c46\u0c28\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u042f\u0440\u0435\u043d"
     ],
     "name:tgl_x_preferred":[
         "Yaren"
@@ -309,11 +352,20 @@
     "name:urd_x_preferred":[
         "\u06cc\u0627\u0631\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Yaren"
+    ],
     "name:vie_x_preferred":[
         "Yaren"
     ],
     "name:war_x_preferred":[
         "Yaren"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u4f26\u533a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d8\u10d0\u10e0\u10d4\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u4e9e\u502b"
@@ -430,7 +482,7 @@
         1108952597
     ],
     "wof:country":"NR",
-    "wof:geomhash":"de8fdf1aa2648ecea1a3772ca72e5a88",
+    "wof:geomhash":"26ed95fbdd888adf0f0a2ebff4e1b91e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -447,7 +499,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1566672066,
+    "wof:lastmodified":1690849756,
     "wof:name":"Yaren",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
@@ -462,10 +514,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    166.9163517587267,
-    -0.55066784614411,
-    166.9326403120009,
-    -0.534380806429
+    166.916352,
+    -0.550668,
+    166.93264,
+    -0.534381
 ],
-  "geometry": {"coordinates":[[[166.9326403120009,-0.55066784614411],[166.91635175872671,-0.54753997169229],[166.91826953601037,-0.54035014644205],[166.92009402481949,-0.53879933122408],[166.9252922897075,-0.534380806429],[166.9326403120009,-0.55066784614411]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.93263999999999,-0.550668],[166.91635199999999,-0.54754],[166.91827000000001,-0.54035],[166.92009400000001,-0.538799],[166.92529200000001,-0.534381],[166.93263999999999,-0.550668]]],"type":"Polygon"}
 }

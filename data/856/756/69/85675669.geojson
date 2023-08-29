@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0645\u064a\u0646\u064a\u0646\u063a"
     ],
+    "name:bel_x_preferred":[
+        "\u041c\u0435\u043d\u0435\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09a8\u09c7\u0982 \u099c\u09c7\u09b2\u09be"
     ],
@@ -59,10 +62,19 @@
     "name:epo_x_preferred":[
         "Meneng"
     ],
+    "name:est_x_preferred":[
+        "Menengi ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u0646\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Meneng"
     ],
     "name:fra_x_preferred":[
+        "Meneng"
+    ],
+    "name:frr_x_preferred":[
         "Meneng"
     ],
     "name:glv_x_preferred":[
@@ -109,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\ub139 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ub139\uad6c"
     ],
     "name:lav_x_preferred":[
         "Menengas distrikts"
@@ -164,6 +179,9 @@
     "name:swe_x_preferred":[
         "Meneng"
     ],
+    "name:szl_x_preferred":[
+        "Meneng"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0ba9\u0bc6\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
@@ -190,6 +208,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6e44\u6fd8\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u6885\u5ae9\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -310,7 +331,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494972,
+    "wof:lastmodified":1690849753,
     "wof:name":"Meneng",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

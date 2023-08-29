@@ -60,10 +60,19 @@
     "name:epo_x_preferred":[
         "Nibok"
     ],
+    "name:est_x_preferred":[
+        "Niboki ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u06cc\u0628\u0648\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Nibok"
     ],
     "name:fra_x_preferred":[
+        "Nibok"
+    ],
+    "name:frr_x_preferred":[
         "Nibok"
     ],
     "name:glv_x_preferred":[
@@ -111,6 +120,9 @@
     "name:kor_x_preferred":[
         "\ub2c8\ubcf4\ud06c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\ubcf4\ud06c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Nibokas distrikts"
     ],
@@ -153,6 +165,9 @@
     "name:rus_x_preferred":[
         "\u041d\u0438\u0431\u043e\u043a"
     ],
+    "name:sgs_x_preferred":[
+        "N\u0117boks"
+    ],
     "name:sin_x_preferred":[
         "\u0db1\u0dd2\u0db6\u0ddc\u0d9a\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -188,6 +203,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u67cf\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u5c3c\u535a\u514b\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NRU",
@@ -308,7 +326,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1636494973,
+    "wof:lastmodified":1690849755,
     "wof:name":"Nibok",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
