@@ -999,7 +999,7 @@
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"674",
     "statoids:ds":"NAU",
     "statoids:fifa":"NRU",
@@ -1074,7 +1074,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1694492214,
+    "wof:lastmodified":1694639667,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
