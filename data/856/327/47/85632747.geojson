@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001842,
-    "geom:area_square_m":22777032.050705,
+    "geom:area_square_m":22777165.611742,
     "geom:bbox":"166.909968,-0.554051,166.960002,-0.501551",
     "geom:latitude":-0.527463,
     "geom:longitude":166.934672,
@@ -14,6 +14,9 @@
     "iso:country":"NR",
     "itu:country_code":[
         "674"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NR"
@@ -995,7 +998,8 @@
     ],
     "src:geom_via":"quattroshapes",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"674",
     "statoids:ds":"NAU",
     "statoids:fifa":"NRU",
@@ -1054,7 +1058,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "quattroshapes"
     ],
-    "wof:geomhash":"ca8cb2b18d367f76c2798cbc774f2085",
+    "wof:geomhash":"c9dcad80de7f088cb8b4e7059475bee4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1070,12 +1074,12 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849757,
+    "wof:lastmodified":1694639667,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":10084,
-    "wof:population_rank":6,
+    "wof:population":12581,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-nr",
     "wof:shortcode":"NR",
     "wof:superseded_by":[],
