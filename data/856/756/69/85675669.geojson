@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000375,
-    "geom:area_square_m":4639942.640082,
+    "geom:area_square_m":4640033.790563,
     "geom:bbox":"166.925292,-0.551853,166.953205,-0.529816",
     "geom:latitude":-0.539624,
     "geom:longitude":166.938592,
@@ -307,14 +307,16 @@
         "gn:id":2110431,
         "gp:id":20070301,
         "hasc:id":"NR.ME",
+        "iso:code":"NR-11",
         "iso:id":"NR-11",
         "qs_pg:id":49491,
         "unlc:id":"NR-11",
         "wd:id":"Q327788",
         "wk:page":"Meneng District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"d5d5a526d1366c905ddc6163ac0cd3b4",
+    "wof:geomhash":"39d1ec4e1593a408cbd85b3e15c0c7c4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -331,7 +333,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849753,
+    "wof:lastmodified":1695884783,
     "wof:name":"Meneng",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

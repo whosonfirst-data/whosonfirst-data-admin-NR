@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000141,
-    "geom:area_square_m":1739415.404329,
+    "geom:area_square_m":1739342.988859,
     "geom:bbox":"166.916352,-0.550668,166.93264,-0.534381",
     "geom:latitude":-0.543719,
     "geom:longitude":166.924097,
@@ -472,17 +472,19 @@
         "gn:id":2110418,
         "gp:id":20070300,
         "hasc:id":"NR.YA",
+        "iso:code":"NR-14",
         "iso:id":"NR-14",
         "qs_pg:id":1014924,
         "unlc:id":"NR-14",
         "wd:id":"Q31026",
         "wk:page":"Yaren District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108952597
     ],
     "wof:country":"NR",
-    "wof:geomhash":"26ed95fbdd888adf0f0a2ebff4e1b91e",
+    "wof:geomhash":"6bbef6f271067688773f5d1b9eb1f471",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -499,7 +501,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849756,
+    "wof:lastmodified":1695884329,
     "wof:name":"Yaren",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

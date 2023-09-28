@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000215,
-    "geom:area_square_m":2652267.127724,
+    "geom:area_square_m":2652292.704063,
     "geom:bbox":"166.916163,-0.538799,166.936135,-0.520686",
     "geom:latitude":-0.528541,
     "geom:longitude":166.924723,
@@ -304,14 +304,16 @@
         "gn:id":2110440,
         "gp:id":20070303,
         "hasc:id":"NR.BU",
+        "iso:code":"NR-07",
         "iso:id":"NR-07",
         "qs_pg:id":49493,
         "unlc:id":"NR-07",
         "wd:id":"Q202747",
         "wk:page":"Buada District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"a4f4e023b964ef0470e6078436096048",
+    "wof:geomhash":"927a9ef91ab9177855ec7dbde032e2d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -328,7 +330,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849754,
+    "wof:lastmodified":1695884783,
     "wof:name":"Buada",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":1168487.311472,
+    "geom:area_square_m":1168477.090612,
     "geom:bbox":"166.906993,-0.524835,166.920376,-0.512107",
     "geom:latitude":-0.519901,
     "geom:longitude":166.912935,
@@ -323,14 +323,16 @@
         "gn:id":2110437,
         "gp:id":20070302,
         "hasc:id":"NR.DE",
+        "iso:code":"NR-08",
         "iso:id":"NR-08",
         "qs_pg:id":49492,
         "unlc:id":"NR-08",
         "wd:id":"Q1187200",
         "wk:page":"Denigomodu District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"f23f17ede9c0fd8a35806e7ad4c37a24",
+    "wof:geomhash":"a9485d51ed546931f41a342bfec2f3bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -347,7 +349,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849753,
+    "wof:lastmodified":1695884783,
     "wof:name":"Denigomodu",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

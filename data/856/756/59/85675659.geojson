@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000115,
-    "geom:area_square_m":1419223.860271,
+    "geom:area_square_m":1419205.114868,
     "geom:bbox":"166.938813,-0.504183,166.955577,-0.490411",
     "geom:latitude":-0.497524,
     "geom:longitude":166.944459,
@@ -301,14 +301,16 @@
         "gn:id":2110449,
         "gp:id":20070308,
         "hasc:id":"NR.AB",
+        "iso:code":"NR-02",
         "iso:id":"NR-02",
         "qs_pg:id":1149776,
         "unlc:id":"NR-02",
         "wd:id":"Q328735",
         "wk:page":"Anabar District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"98a61a1a6470923aac967daee0afaaf0",
+    "wof:geomhash":"af6276fd3e3c38f4c2163489732dd3d4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -325,7 +327,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849753,
+    "wof:lastmodified":1695884783,
     "wof:name":"Anabar",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

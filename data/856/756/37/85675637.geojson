@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000283,
-    "geom:area_square_m":3496744.289341,
+    "geom:area_square_m":3496609.924095,
     "geom:bbox":"166.910312,-0.525195,166.936798,-0.500177",
     "geom:latitude":-0.514142,
     "geom:longitude":166.922311,
@@ -302,14 +302,16 @@
         "gn:id":2110423,
         "gp:id":20070306,
         "hasc:id":"NR.NI",
+        "iso:code":"NR-12",
         "iso:id":"NR-12",
         "qs_pg:id":49495,
         "unlc:id":"NR-12",
         "wd:id":"Q378780",
         "wk:page":"Nibok District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"90bdb89e49b438d61f7ae13c89d336e0",
+    "wof:geomhash":"89015b4ab7cde3886bd3456bb082782d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -326,7 +328,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849755,
+    "wof:lastmodified":1695884783,
     "wof:name":"Nibok",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":5746860.666489,
+    "geom:area_square_m":5746899.682263,
     "geom:bbox":"166.935475,-0.533383,166.958263,-0.504183",
     "geom:latitude":-0.520002,
     "geom:longitude":166.946512,
@@ -298,14 +298,16 @@
         "gn:id":2110445,
         "gp:id":20070304,
         "hasc:id":"NR.AR",
+        "iso:code":"NR-04",
         "iso:id":"NR-04",
         "qs_pg:id":1149777,
         "unlc:id":"NR-04",
         "wd:id":"Q328733",
         "wk:page":"Anibare District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"f1ec4e30571d117c3d620901b395f955",
+    "wof:geomhash":"7917fa946c5da8420a0b31563273290b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -322,7 +324,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849753,
+    "wof:lastmodified":1695884783,
     "wof:name":"Anibare",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

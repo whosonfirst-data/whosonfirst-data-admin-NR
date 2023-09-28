@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000107,
-    "geom:area_square_m":1319294.730301,
+    "geom:area_square_m":1319319.965588,
     "geom:bbox":"166.913422,-0.520199,166.93724,-0.49839",
     "geom:latitude":-0.508262,
     "geom:longitude":166.925688,
@@ -297,14 +297,16 @@
         "gn:id":2110420,
         "gp:id":20070307,
         "hasc:id":"NR.UA",
+        "iso:code":"NR-13",
         "iso:id":"NR-13",
         "qs_pg:id":66072,
         "unlc:id":"NR-13",
         "wd:id":"Q473764",
         "wk:page":"Uaboe District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"66e8366bcd196289f51fec6631e3f1ff",
+    "wof:geomhash":"d6f97d8f33e56ba330f00592f67e4403",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -321,7 +323,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849755,
+    "wof:lastmodified":1695884783,
     "wof:name":"Uaboe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
