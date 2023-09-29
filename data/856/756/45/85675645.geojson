@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000135,
-    "geom:area_square_m":1664395.010328,
+    "geom:area_square_m":1664459.812065,
     "geom:bbox":"166.918067,-0.516516,166.938048,-0.495675",
     "geom:latitude":-0.504861,
     "geom:longitude":166.929014,
@@ -298,14 +298,16 @@
         "gn:id":2110442,
         "gp:id":20070309,
         "hasc:id":"NR.BA",
+        "iso:code":"NR-05",
         "iso:id":"NR-05",
         "qs_pg:id":49496,
         "unlc:id":"NR-05",
         "wd:id":"Q328727",
         "wk:page":"Baitsi District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"5dca82b58daaa19502c55b61dad14022",
+    "wof:geomhash":"c17aa226fb5549343fd0b6c23fbe8ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -322,7 +324,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849754,
+    "wof:lastmodified":1695884783,
     "wof:name":"Baiti",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

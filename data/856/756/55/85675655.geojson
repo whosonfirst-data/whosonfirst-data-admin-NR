@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000053,
-    "geom:area_square_m":651577.742382,
+    "geom:area_square_m":651603.998697,
     "geom:bbox":"166.931197,-0.504183,166.938987,-0.490411",
     "geom:latitude":-0.495978,
     "geom:longitude":166.936332,
@@ -298,14 +298,16 @@
         "gn:id":2110448,
         "gp:id":20070311,
         "hasc:id":"NR.AT",
+        "iso:code":"NR-03",
         "iso:id":"NR-03",
         "qs_pg:id":240461,
         "unlc:id":"NR-03",
         "wd:id":"Q378813",
         "wk:page":"Anetan District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"d3ac33e796fc8980c1b9e5ecc4e72486",
+    "wof:geomhash":"9a95c8263f533fe8407c21c6452b27e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -322,7 +324,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849755,
+    "wof:lastmodified":1695884783,
     "wof:name":"Anetan",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

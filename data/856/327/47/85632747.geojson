@@ -1037,6 +1037,7 @@
         "hasc:id":"NR",
         "icao:code":"C2",
         "ioc:id":"NRU",
+        "iso:code":"NR",
         "itu:id":"NRU",
         "loc:id":"n82076382",
         "m49:code":"520",
@@ -1051,6 +1052,7 @@
         "wk:page":"Nauru",
         "wmo:id":"NW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
     "wof:country_alpha3":"NRU",
     "wof:geom_alt":[
@@ -1074,7 +1076,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1694639667,
+    "wof:lastmodified":1695881327,
     "wof:name":"Nauru",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

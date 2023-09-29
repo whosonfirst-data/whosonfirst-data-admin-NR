@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000047,
-    "geom:area_square_m":578927.815023,
+    "geom:area_square_m":578952.652865,
     "geom:bbox":"166.911993,-0.54754,166.920094,-0.535083",
     "geom:latitude":-0.539821,
     "geom:longitude":166.916065,
@@ -308,14 +308,16 @@
         "gn:id":2110441,
         "gp:id":20070299,
         "hasc:id":"NR.BO",
+        "iso:code":"NR-06",
         "iso:id":"NR-06",
         "qs_pg:id":49490,
         "unlc:id":"NR-06",
         "wd:id":"Q378829",
         "wk:page":"Boe District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"855e4bebc2b9690e2c81e018bbee54d9",
+    "wof:geomhash":"12c1cc1437cf9f3d5f99c7f12f4b98c7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -332,7 +334,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849756,
+    "wof:lastmodified":1695884783,
     "wof:name":"Boe",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

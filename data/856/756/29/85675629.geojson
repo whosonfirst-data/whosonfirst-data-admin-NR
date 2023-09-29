@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000088,
-    "geom:area_square_m":1091773.636025,
+    "geom:area_square_m":1091737.693173,
     "geom:bbox":"166.906993,-0.536965,166.917918,-0.524198",
     "geom:latitude":-0.529894,
     "geom:longitude":166.912956,
@@ -317,14 +317,16 @@
         "gn:id":2110451,
         "gp:id":20070298,
         "hasc:id":"NR.AI",
+        "iso:code":"NR-01",
         "iso:id":"NR-01",
         "qs_pg:id":49489,
         "unlc:id":"NR-01",
         "wd:id":"Q240017",
         "wk:page":"Aiwo District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"57434a2d1a5d864c856eb4110a314d22",
+    "wof:geomhash":"307b68cefbb55a3540c0807bceaa04a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -341,7 +343,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849754,
+    "wof:lastmodified":1695884783,
     "wof:name":"Aiwo",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

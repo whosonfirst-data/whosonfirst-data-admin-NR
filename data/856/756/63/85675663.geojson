@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000131,
-    "geom:area_square_m":1617317.640812,
+    "geom:area_square_m":1617345.724834,
     "geom:bbox":"166.938987,-0.511329,166.957397,-0.497979",
     "geom:latitude":-0.504893,
     "geom:longitude":166.950328,
@@ -295,14 +295,16 @@
         "gn:id":2110432,
         "gp:id":20070305,
         "hasc:id":"NR.IJ",
+        "iso:code":"NR-10",
         "iso:id":"NR-10",
         "qs_pg:id":49494,
         "unlc:id":"NR-10",
         "wd:id":"Q328738",
         "wk:page":"Ijuw District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"fed7986af2ce7f6b2a517a7abe7e6603",
+    "wof:geomhash":"35452ca79215d7376e5e691593c978f1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -319,7 +321,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849755,
+    "wof:lastmodified":1695884783,
     "wof:name":"Ijuw",
     "wof:parent_id":85632747,
     "wof:placetype":"region",

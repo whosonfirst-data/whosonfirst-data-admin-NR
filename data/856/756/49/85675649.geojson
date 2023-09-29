@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":1111828.13098,
+    "geom:area_square_m":1111858.408789,
     "geom:bbox":"166.925126,-0.51052,166.938987,-0.49334",
     "geom:latitude":-0.500784,
     "geom:longitude":166.932987,
@@ -298,14 +298,16 @@
         "gn:id":2110435,
         "gp:id":20070310,
         "hasc:id":"NR.EW",
+        "iso:code":"NR-09",
         "iso:id":"NR-09",
         "qs_pg:id":49497,
         "unlc:id":"NR-09",
         "wd:id":"Q274381",
         "wk:page":"Ewa District, Nauru"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"0606842d32b9c24c34e6b7a0a7ed300b",
+    "wof:geomhash":"c618b960a0617716cc105ca81ae8ea5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -322,7 +324,7 @@
         "eng",
         "nau"
     ],
-    "wof:lastmodified":1690849756,
+    "wof:lastmodified":1695884783,
     "wof:name":"Ewa",
     "wof:parent_id":85632747,
     "wof:placetype":"region",
